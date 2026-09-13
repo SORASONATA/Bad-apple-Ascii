@@ -29,7 +29,7 @@ A tool that converts videos into ASCII art music videos.
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:SORASONATA/Bad-apple-Ascii.git
+git clone git@github.com:PEIWARA/Bad-apple-Ascii.git
 cd ascii-mv
 ```
 

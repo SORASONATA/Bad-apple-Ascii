@@ -10,6 +10,12 @@ A tool that converts videos into ASCII art music videos.
 * Preserve original audio
 * Support common video formats through FFmpeg
 
+
+## Preview
+
+<img width="800" alt="ASCII MV Preview" src="https://github.com/user-attachments/assets/3d100291-6d27-462a-83f7-69e8d40fb7b5" />
+
+
 ## Requirements
 
 * Python 3.9+
